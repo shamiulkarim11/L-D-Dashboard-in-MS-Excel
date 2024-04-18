@@ -1,10 +1,8 @@
 <h1>Learning & Development Dashboard in Microsoft Excel</h1>
-![L D Dashboard](https://github.com/shamiulkarim11/Learning-Development-Dashboard-in-Microsoft-Excel/assets/158545323/0c35dbbc-a246-4823-bbf5-e292af49d066)
-
+<img src="https://github.com/shamiulkarim11/Learning-Development-Dashboard-in-Microsoft-Excel/blob/main/L%26D%20Dashboard.png">
 <p>This interactive Learning & Development (L&D) dashboard empowers project managers to track individual employee progress within the program. It allows filtering by employee ID, providing insights into key metrics like L&D assigned dates, weekly course completion rates, and assessment scores. Additionally, the dashboard offers an overview of overall employee participation, highlighting completion rates and remaining participants.</P>
 <hr>
 <h2>Key Features</h2>
-<img src="https://github.com/shamiulkarim11/Learning-Development-Dashboard-in-Microsoft-Excel/blob/main/L%26D%20Dashboard.png">
 <ul>
   <li><b>Individualized Employee Tracking:</b> Allows filtering by employee ID to monitor their specific progress within the L&D program.</li>
   <li><b>Weekly Completion Metrics:</b> Provides insights into the weekly completion rates of courses for each employee.</li>
