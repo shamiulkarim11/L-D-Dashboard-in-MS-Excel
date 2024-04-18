@@ -5,13 +5,13 @@
 <hr>
 <h2>Key Features</h2>
 <ul>
-  <li><b>Individualized Employee Tracking:<b> Allows filtering by employee ID to monitor their specific progress within the L&D program.</li>
-  <li><b>Weekly Completion Metrics:<b> Provides insights into the weekly completion rates of courses for each employee.</li>
-  <li><b>Assessment Score Tracking:<b> Tracks assessment scores achieved by employees throughout the L&D program.</li>
-  <li><b>Program Participation Overview:<b> Offers a high-level view of overall employee participation, highlighting completion rates and the number of remaining participants.Individualized Employee Tracking: Allows   filtering by employee ID to monitor their specific progress within the L&D program.</li> 
-  <li><b>Weekly Completion Metrics:<b> Provides insights into the weekly completion rates of courses for each employee.</li>
-  <li><b>Assessment Score Tracking:<b> Tracks assessment scores achieved by employees throughout the L&D program.</li>
-  <li><b>Program Participation Overview:<b> Offers a high-level view of overall employee participation, highlighting completion rates and the number of remaining participants.</li>
+  <li><b>Individualized Employee Tracking:</b> Allows filtering by employee ID to monitor their specific progress within the L&D program.</li>
+  <li><b>Weekly Completion Metrics:</b> Provides insights into the weekly completion rates of courses for each employee.</li>
+  <li><b>Assessment Score Tracking:</b> Tracks assessment scores achieved by employees throughout the L&D program.</li>
+  <li><b>Program Participation Overview:</b>Offers a high-level view of overall employee participation, highlighting completion rates and the number of remaining participants.Individualized Employee Tracking: Allows   filtering by employee ID to monitor their specific progress within the L&D program.</li> 
+  <li><b>Weekly Completion Metrics:</b> Provides insights into the weekly completion rates of courses for each employee.</li>
+  <li><b>Assessment Score Tracking:</b> Tracks assessment scores achieved by employees throughout the L&D program.</li>
+  <li><b>Program Participation Overview:</b> Offers a high-level view of overall employee participation, highlighting completion rates and the number of remaining participants.</li>
 </ul>
 
   
